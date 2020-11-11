@@ -17,9 +17,8 @@
 
 **3.Traffic Light Control System**
 
-  • The main aim for this project was to minimize the time taken by an emergency vehicle (EV) to reach its
-  destination.
-  • It is a button-controlled traffic light system which turns the red light to green for a particular EV at a junction
+  The main aim for this project was to minimize the time taken by an emergency vehicle (EV) to reach its
+  destination.It is a button-controlled traffic light system which turns the red light to green for a particular EV at a junction
   and turns all the other lane lights to red
   
   Softrware: Arduino IDE
